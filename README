@@ -1,0 +1,18 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3410
+
+Start visual mode with `V` and select some lines.
+
+http://gyazo.com/ef8121528e4a269ce894e25c289b489a.png
+
+Type `<C-y>`
+
+http://gyazo.com/2b56de0c4f7603df7a00e9845704b39c.png
+
+Now your clipboard or Vim register `"+` has the lines you selected with line numbers. Paste it anywhere you want!
+
+http://gyazo.com/5000e1cca5ad81203541fb7e3ce82a50.png
+
+Contributor: tyru
+
+The development is in github. https://github.com/ujihisa/nclipper.vim
+
